@@ -1,0 +1,3 @@
+1 Question)))) What happens when you initialize a repository? Why do you need to do it?
+
+When you initialize a repository git will add an invisible .git file that stores all the commits that you make. You need to do it so that you can use git checkout and other commands to check the changes that you've made and so that you can save the commits.
